@@ -50,7 +50,7 @@ Moviez is a macOS application for managing and categorizing your favorite movies
 The TXT file should have the following format:
 
 ```
-Movies and Series 2024
+Movies and Series
 
 Title: Barry
 Rating: 78
